@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18046010336",
+    "project_id": "simplecalculator-b5a3f",
+    "storage_bucket": "simplecalculator-b5a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18046010336:android:55bf279dc01bfc88d1a185",
+        "android_client_info": {
+          "package_name": "com.rahul.simplecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18046010336-nb9tk7gvt6arc9oc3svri8nv2vaufr11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNvm3u6QLyjiSvWtkjtfzFD4IJJNBphU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18046010336-nb9tk7gvt6arc9oc3svri8nv2vaufr11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
